@@ -1,0 +1,16 @@
+{
+    "customers": [
+        {
+            "id": 0,
+            "firstName": "John",
+            "lastName": "Cena",
+            "dob": "1/23/90"
+        },
+        {
+            "id": 1,
+            "firstName": "Mike",
+            "lastName": "Hawk",
+            "dob": "10/2/99"
+        }
+    ]
+}
